@@ -53,4 +53,5 @@
     <string name="empty_list_message">No courses added yet</string>
     <string name="input_empty_message">Course name and time cannot be empty</string>
 
+    <string name="choose_days">choose the day</string>
 </resources>
